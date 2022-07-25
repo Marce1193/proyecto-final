@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+body main {
+  text-align: center;
+  margin: 15px;
+}
+body .bg-color {
+  background-color: rgba(245, 126, 182, 0.2);
+}
+
+/*# sourceMappingURL=styles.css.map */
