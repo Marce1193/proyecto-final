@@ -17,20 +17,26 @@ body main {
   min-height: 500px;
   margin: 15px;
 }
+body #main__about {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
 body .bg-color {
   background-color: rgba(245, 126, 182, 0.677);
 }
 body .footer {
   background-color: #212529;
   color: #fff;
-  height: 60px;
+  height: 80px;
   width: 100%;
   padding-left: 0px;
   padding-right: 0px;
+  margin: 0;
   text-align: center;
-  display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
 }
 body .footer a {
   text-decoration: none;
