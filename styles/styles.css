@@ -24,7 +24,7 @@ body #main__about {
   height: 100%;
 }
 body .bg-color {
-  background-color: rgba(245, 126, 182, 0.677);
+  background-color: rgb(245, 126, 182);
 }
 body .footer {
   background-color: #212529;
