@@ -8,6 +8,7 @@
 }
 
 body {
+    min-height: 100%;
     nav{
         div{
             color: black;
@@ -25,7 +26,8 @@ body {
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 100%;
+        padding: 40px;
+        margin: 10px;
     }
     .bg-color{
         background-color: rgb(245, 126, 182);
@@ -40,7 +42,9 @@ body {
         margin: 0;
         text-align: center;
         align-items: center;
-        justify-content: center;
+        justify-content: space-around;
+        display: flex;
+        flex-direction: column;
         a{
             text-decoration: none;
             color: #fff;
